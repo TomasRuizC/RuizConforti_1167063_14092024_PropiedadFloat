@@ -1,0 +1,23 @@
+main {
+  width: 100%;
+  background-color: #f1f1f1;
+  overflow: hidden;
+}
+
+article {
+  float: left;
+  width: 33%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+p {
+  clear: both;
+}
